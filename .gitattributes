@@ -4,3 +4,15 @@ data/DST_2002_2007.txt filter=lfs diff=lfs merge=lfs -text
 data/Kp_ap_Ap_SN_F10_2002_2007.txt filter=lfs diff=lfs merge=lfs -text
 data/SOLFSMY.txt filter=lfs diff=lfs merge=lfs -text
 data/champ-2002-2007.tar.gz filter=lfs diff=lfs merge=lfs -text
+data/omni/omni_min_2005.fmt filter=lfs diff=lfs merge=lfs -text
+data/omni/omni_min_2005.lst filter=lfs diff=lfs merge=lfs -text
+data/omni/omni_min_2006.fmt filter=lfs diff=lfs merge=lfs -text
+data/omni/omni_min_2006.lst filter=lfs diff=lfs merge=lfs -text
+data/omni/omni_min_2007.fmt filter=lfs diff=lfs merge=lfs -text
+data/omni/omni_min_2002.fmt filter=lfs diff=lfs merge=lfs -text
+data/omni/omni_min_2003.fmt filter=lfs diff=lfs merge=lfs -text
+data/omni/omni_min_2004.fmt filter=lfs diff=lfs merge=lfs -text
+data/omni/omni_min_2007.lst filter=lfs diff=lfs merge=lfs -text
+data/omni/omni_min_2002.lst filter=lfs diff=lfs merge=lfs -text
+data/omni/omni_min_2003.lst filter=lfs diff=lfs merge=lfs -text
+data/omni/omni_min_2004.lst filter=lfs diff=lfs merge=lfs -text
