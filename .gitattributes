@@ -16,3 +16,9 @@ data/omni/omni_min_2007.lst filter=lfs diff=lfs merge=lfs -text
 data/omni/omni_min_2002.lst filter=lfs diff=lfs merge=lfs -text
 data/omni/omni_min_2003.lst filter=lfs diff=lfs merge=lfs -text
 data/omni/omni_min_2004.lst filter=lfs diff=lfs merge=lfs -text
+data/champ-2002-2007/champ-2005 filter=lfs diff=lfs merge=lfs -text
+data/champ-2002-2007/champ-2006 filter=lfs diff=lfs merge=lfs -text
+data/champ-2002-2007/champ-2007 filter=lfs diff=lfs merge=lfs -text
+data/champ-2002-2007/champ-2002 filter=lfs diff=lfs merge=lfs -text
+data/champ-2002-2007/champ-2003 filter=lfs diff=lfs merge=lfs -text
+data/champ-2002-2007/champ-2004 filter=lfs diff=lfs merge=lfs -text
