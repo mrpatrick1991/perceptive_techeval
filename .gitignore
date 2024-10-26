@@ -3,3 +3,4 @@
 .venv
 notebooks/df.csv
 /champ_l2/
+data/omni/omni_temp.csv
